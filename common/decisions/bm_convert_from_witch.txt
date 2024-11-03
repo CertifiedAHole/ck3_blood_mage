@@ -1,5 +1,7 @@
 ﻿convert_to_blood_magic_from_witch = {
-	picture = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"
+	}
 	major = yes
 	desc = convert_to_blood_magic_from_witch_desc
 
@@ -16,5 +18,5 @@
 	}
 
 	ai_check_interval = 36
-	ai_will_do = 50
+	ai_will_do = { base = 50}
 }
