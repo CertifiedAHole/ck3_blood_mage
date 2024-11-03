@@ -25,6 +25,7 @@
 	ai_will_do = {base = 50}
 }
 
+#works but probably requires a successful message.
 enhance_blood_mage_coven_decision_1 = {
 	picture = {
 		reference = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"
