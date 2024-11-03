@@ -1,6 +1,5 @@
 ﻿debug_add_lifeforce = {
-	picture = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"
-	major = no
+	picture = {reference = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"}
 	ai_check_interval = 0
 	desc = "BLOOD MAGE DEBUG"
 
@@ -18,8 +17,7 @@
 
 
 debug_level_up_blood_mage_trait = {
-	picture = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"
-	major = no
+	picture = {reference = "gfx/interface/illustrations/decisions/bm_decision_personal_religious.dds"}
 	ai_check_interval = 0
 	desc = "BLOOD MAGE DEBUG"
 
